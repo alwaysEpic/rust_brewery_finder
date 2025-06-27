@@ -1,0 +1,7 @@
+services:
+  brewery_finder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: rust_brewery_finder
+    container_name: rust_brewery_finder

@@ -1,0 +1,26 @@
+{
+    "name": "Rust Brewery Finder",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": "."
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "baseUrl": "http://host.docker.internal:8080",
+                "terminal.integrated.defaultProfile.linux": "bash",
+                "rust-analyzer.checkOnSave.command": "clippy"
+            },
+            "extensions": [
+                "rust-lang.rust-analyzer",
+                "ms-azuretools.vscode-docker"
+            ]
+        }
+    },
+    "runArgs": [
+        "--add-host",
+        "host.docker.internal:host-gateway"
+    ],
+    "postCreateCommand": "cargo build",
+    "remoteUser": "root"
+}
