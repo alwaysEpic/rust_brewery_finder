@@ -1,148 +1,106 @@
 [
   {
     "brewery": {
-      "name": "Ice Harbor Brewing Company at the Marina",
-      "id": "feb525c5-293c-4e08-88b7-0005da6e8bea",
-      "brewery_type": "brewpub",
-      "address_1": "350 Clover Island Dr",
-      "address_2": null,
-      "address_3": null,
-      "city": "Kennewick",
-      "state_province": "Washington",
-      "postal_code": "99336-3678",
-      "country": "United States",
-      "longitude": -119.111368,
-      "latitude": 46.217631,
-      "phone": "5095863181",
-      "website_url": "http://www.iceharbor.com",
-      "state": "Washington",
-      "street": "350 Clover Island Dr"
-    },
-    "reason": "Not a micro brewery"
-  },
-  {
-    "brewery": {
-      "name": "Third Base Brewery",
-      "id": "96286af2-3741-43d0-a059-a42f8ea584d0",
-      "brewery_type": "brewpub",
-      "address_1": "500 Blairs Ferry Rd NE Ste 2",
-      "address_2": null,
-      "address_3": null,
-      "city": "Cedar Rapids",
-      "state_province": "Iowa",
-      "postal_code": "52402-1466",
-      "country": "United States",
-      "longitude": -91.639755,
-      "latitude": 42.035164,
-      "phone": "3193789090",
-      "website_url": "http://www.Thirdbasebrew.com",
-      "state": "Iowa",
-      "street": "500 Blairs Ferry Rd NE Ste 2"
-    },
-    "reason": "Not a micro brewery"
-  },
-  {
-    "brewery": {
-      "name": "Boston Beer Co - DBA Samuel Adams Brewing Co",
-      "id": "a7928f72-0201-4c7e-bb72-a83016945a2e",
+      "name": "Modern Times Beer",
+      "id": "579aa3fb-9386-4a0e-b617-8b4d72cd5075",
       "brewery_type": "regional",
-      "address_1": "1625 Central Pkwy",
+      "address_1": "3725 Greenwood St",
       "address_2": null,
       "address_3": null,
-      "city": "Cincinnati",
-      "state_province": "Ohio",
-      "postal_code": "45214-2423",
-      "country": "United States",
-      "longitude": -84.5207651,
-      "latitude": 39.11257,
-      "phone": "6173685000",
-      "website_url": "http://www.samueladams.com",
-      "state": "Ohio",
-      "street": "1625 Central Pkwy"
-    },
-    "reason": "Not a micro brewery"
-  },
-  {
-    "brewery": {
-      "name": "Mighty Squirrel",
-      "id": "65621b87-399c-4756-915a-4a0b8f2fb89b",
-      "brewery_type": "regional",
-      "address_1": "1 David Ortiz Dr",
-      "address_2": null,
-      "address_3": null,
-      "city": "Boston",
-      "state_province": "Massachusetts",
-      "postal_code": "02215",
-      "country": "United States",
-      "longitude": -71.101228347381,
-      "latitude": 42.347239312681,
-      "phone": "8575575700",
-      "website_url": "http://www.mightysquirrel.com",
-      "state": "Massachusetts",
-      "street": "1 David Ortiz Dr"
-    },
-    "reason": "Not a micro brewery"
-  },
-  {
-    "brewery": {
-      "name": "Adventure South",
-      "id": "d4661358-81e2-454d-9fe2-b08ef6fc16fe",
-      "brewery_type": "brewpub",
-      "address_1": "3300 Dill Smith Dr",
-      "address_2": null,
-      "address_3": null,
-      "city": "Fredericksburg",
-      "state_province": "Virginia",
-      "postal_code": "22408-7319",
-      "country": "United States",
-      "longitude": null,
-      "latitude": null,
-      "phone": "5403717799",
-      "website_url": "http://www.adventurebrewing.com",
-      "state": "Virginia",
-      "street": "3300 Dill Smith Dr"
-    },
-    "reason": "Not a micro brewery"
-  },
-  {
-    "brewery": {
-      "name": "Iron Tree Table & Taps",
-      "id": "4a6b7b4f-5857-4635-a67e-9132a6d0e6c8",
-      "brewery_type": "brewpub",
-      "address_1": "37 Costello Ave",
-      "address_2": null,
-      "address_3": null,
-      "city": "Florissant",
-      "state_province": "Colorado",
-      "postal_code": "80816",
-      "country": "United States",
-      "longitude": null,
-      "latitude": null,
-      "phone": "7197480124",
-      "website_url": "http://www.irontreerestaurant.com",
-      "state": "Colorado",
-      "street": "37 Costello Ave"
-    },
-    "reason": "Not a micro brewery"
-  },
-  {
-    "brewery": {
-      "name": "Laguna Beach Brewery and Grille",
-      "id": "9f90e54e-0e87-415e-b01b-12f9c1261a3a",
-      "brewery_type": "brewpub",
-      "address_1": "237 Ocean Ave",
-      "address_2": null,
-      "address_3": null,
-      "city": "Laguna Beach",
+      "city": "San Diego",
       "state_province": "California",
-      "postal_code": "92651-2106",
+      "postal_code": "92110-4441",
       "country": "United States",
-      "longitude": -117.7835382,
-      "latitude": 33.5427913,
-      "phone": "9494973381",
-      "website_url": "http://www.lagunabeachbrewery.net",
+      "longitude": -117.206153,
+      "latitude": 32.754233,
+      "phone": "6195469694",
+      "website_url": "http://www.moderntimesbeer.com",
       "state": "California",
-      "street": "237 Ocean Ave"
+      "street": "3725 Greenwood St"
+    },
+    "reason": "Not a micro brewery"
+  },
+  {
+    "brewery": {
+      "name": "Fins Big Oyster Brewery",
+      "id": "aef7a136-f2e1-4aca-ad98-ab593e82f91a",
+      "brewery_type": "brewpub",
+      "address_1": "19269 Coastal Hwy",
+      "address_2": null,
+      "address_3": null,
+      "city": "Rehoboth Beach",
+      "state_province": "Delaware",
+      "postal_code": "19971-6113",
+      "country": "United States",
+      "longitude": -75.090191,
+      "latitude": 38.7074994,
+      "phone": "3022902410",
+      "website_url": "http://bigoysterbrewery.com",
+      "state": "Delaware",
+      "street": "19269 Coastal Hwy"
+    },
+    "reason": "Not a micro brewery"
+  },
+  {
+    "brewery": {
+      "name": "Fainting Goat Brewing Company",
+      "id": "409cbbab-e5e4-45a7-a251-16406806ccda",
+      "brewery_type": "micro",
+      "address_1": "330 S Main St",
+      "address_2": null,
+      "address_3": null,
+      "city": "Fuquay Varina",
+      "state_province": "North Carolina",
+      "postal_code": "27526-2225",
+      "country": "United States",
+      "longitude": -78.80001933,
+      "latitude": 35.5812855,
+      "phone": "9193950642",
+      "website_url": "http://www.faintinggoatbeer.com",
+      "state": "North Carolina",
+      "street": "330 S Main St"
+    },
+    "reason": "State previously seen"
+  },
+  {
+    "brewery": {
+      "name": "Brew 32",
+      "id": "da170deb-574e-4582-a365-b83058312b8b",
+      "brewery_type": "brewpub",
+      "address_1": "1474 State Route 208",
+      "address_2": null,
+      "address_3": null,
+      "city": "Pulaski",
+      "state_province": "Pennsylvania",
+      "postal_code": "16143-4308",
+      "country": "United States",
+      "longitude": null,
+      "latitude": null,
+      "phone": "7242528464",
+      "website_url": "http://Www.brew32craft.com",
+      "state": "Pennsylvania",
+      "street": "1474 State Route 208"
+    },
+    "reason": "Not a micro brewery"
+  },
+  {
+    "brewery": {
+      "name": "Rock Bottom Brewery - Minneapolis",
+      "id": "db07e9cc-5c84-419e-aa9a-149b068b945f",
+      "brewery_type": "brewpub",
+      "address_1": "800 Lasalle Ave",
+      "address_2": null,
+      "address_3": null,
+      "city": "Minneapolis",
+      "state_province": "Minnesota",
+      "postal_code": "55402-2006",
+      "country": "United States",
+      "longitude": -93.274687,
+      "latitude": 44.976427,
+      "phone": "6123322739",
+      "website_url": "http://www.rockbottom.com",
+      "state": "Minnesota",
+      "street": "800 Lasalle Ave"
     },
     "reason": "Not a micro brewery"
   }

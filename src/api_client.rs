@@ -3,8 +3,8 @@ use reqwest::Client;
 use crate::brewery::Brewery;
 
 pub struct ApiService {
-    pub client: Client,
-    pub base_url: String,
+    client: Client,
+    base_url: String,
 }
 
 impl ApiService {
